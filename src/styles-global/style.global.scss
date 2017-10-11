@@ -1,0 +1,16 @@
+@import "./partials/_vars.scss";
+
+body {
+  font-family: sans-serif;
+  background: $col-brand;
+}
+
+html {
+  font-size: 100%;
+}
+
+.special-text {
+  font-weight: bold;
+  font-size: 2.3rem;
+  color: $col-def-bg;
+}
